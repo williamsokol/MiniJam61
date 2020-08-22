@@ -38,6 +38,7 @@ public class PlayerMovement : MonoBehaviour
         //See if the jumping
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
+            print("test");
             rb.AddForce(transform.up * jumpForce);
             
         }
@@ -68,11 +69,12 @@ public class PlayerMovement : MonoBehaviour
     public void WalkingAnim(){
         if(movement != 0){
             animator.SetBool("Walking",true);
-            transform.localScale =  new Vector2(Mathf.Sign(movement),transform.localScale.y);
+            transform.localScale =  new Vector3(Mathf.Sign(movement),1,1);
         }else{
             animator.SetBool("Walking",false);
         }
     }
+
     public bool IsGrounded()
     {
         float extraHeightText = 0.1f;
@@ -80,7 +82,7 @@ public class PlayerMovement : MonoBehaviour
         Color rayColor;
         
         //Debug.DrawRay(cc.bounds.center, Vector2.down * (cc.bounds.extents.y + extraHeightText));
-        //Debug.Log(hit.collider);
+        Debug.Log(hit.collider);
         return hit.collider != null;
     }
 }
