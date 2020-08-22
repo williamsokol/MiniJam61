@@ -37,9 +37,12 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\AI\AIMovement.cs" />
-     <Compile Include="Assets\ButtonClick.cs" />
+     <Compile Include="Assets\ButtonClick1.cs" />
+     <Compile Include="Assets\Main Menu\ButtonClick.cs" />
      <Compile Include="Assets\Scripts\Attack.cs" />
+     <Compile Include="Assets\Scripts\EnemyDmg.cs" />
      <Compile Include="Assets\Scripts\EnemyHp.cs" />
+     <Compile Include="Assets\Scripts\PlayerHp.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <None Include="Assets\Packages\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\Packages\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />

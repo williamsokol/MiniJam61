@@ -61,6 +61,17 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         transform.Translate( Vector2.right * movement);
+        WalkingAnim();
+        
+    }
+
+    public void WalkingAnim(){
+        if(movement != 0){
+            animator.SetBool("Walking",true);
+            transform.localScale =  new Vector2(Mathf.Sign(movement),transform.localScale.y);
+        }else{
+            animator.SetBool("Walking",false);
+        }
     }
     public bool IsGrounded()
     {
