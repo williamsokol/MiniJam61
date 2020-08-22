@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Attack : MonoBehaviour
 {
-
+    Vector2 oldDirection =  new Vector2(0,0);
+    public GameObject dmgBox;
    
     // Start is called before the first frame update
     void Start()
@@ -15,13 +16,31 @@ public class Attack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //point wepon at mouse
+        RotateAttackBox();
+        ShowWepon();
+    }
+
+    void RotateAttackBox(){
+
         Vector3 mousePosition = Input.mousePosition;
         mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
         Vector2 dirction = new Vector2(
             mousePosition.x - transform.position.x,
             mousePosition.y - transform.position.y
         );
-        transform.up = dirction;
+
+        float angle = Mathf.Atan2(dirction.y, dirction.x) * Mathf.Rad2Deg;
+        Vector3 vec = new Vector3(0,0,(Mathf.Round(angle/45)*45)-90);
+
+        transform.eulerAngles = vec;
+    }
+
+    void ShowWepon(){
+
+        if(Input.GetButton("Fire1")){
+            dmgBox.SetActive(true);
+        }else{
+            dmgBox.SetActive(false);   
+        }
     }
 }
