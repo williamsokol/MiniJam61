@@ -5,7 +5,8 @@ using UnityEngine;
 public class Attack : MonoBehaviour
 {
     Vector2 oldDirection =  new Vector2(0,0);
-    public GameObject dmgBox;
+    public GameObject projectile, shootSpot;
+    public float timer = 0, attackSpeed;
    
     // Start is called before the first frame update
     void Start()
@@ -37,10 +38,13 @@ public class Attack : MonoBehaviour
 
     void ShowWepon(){
 
-        if(Input.GetButton("Fire1")){
-            dmgBox.SetActive(true);
+        if(Input.GetButton("Fire1") && timer >= attackSpeed){
+            //dmgBox.SetActive(true);
+            Instantiate(projectile, shootSpot.transform.position, transform.rotation);
+            timer = 0;
         }else{
-            dmgBox.SetActive(false);   
+            //dmgBox.SetActive(false);
+            timer += Time.deltaTime;   
         }
     }
 }
