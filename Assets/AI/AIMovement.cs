@@ -7,6 +7,7 @@ public class AIMovement : MonoBehaviour
     public float speed;
     public Transform PatrolBlockLeft;
     public Transform PatrolBlockRight;
+    public SpriteRenderer AI;
 
     // Start is called before the first frame update
     void Start()
@@ -22,6 +23,14 @@ public class AIMovement : MonoBehaviour
         if(transform.position.x >= PatrolBlockRight.position.x || transform.position.x <= PatrolBlockLeft.position.x)
         {
             speed = -speed;
+        }
+        if(speed < 0)
+        {
+            AI.flipX = true;
+        }
+        else
+        {
+            AI.flipX = false;
         }
     }
 }

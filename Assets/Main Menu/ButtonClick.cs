@@ -6,16 +6,12 @@ using UnityEngine.UI;
 
 public class ButtonClick : MonoBehaviour
 {
-    public bool soundMute;
+    public bool soundMute = false;
     public Text MuteText;
-    void Start()
-    {
-        soundMute = false;
-        MuteText.text = "Mute";
-    }
 
     public void Play()
     {
+        Destroy(GameObject.FindGameObjectWithTag("Music"));
         SceneManager.LoadScene("Game Level");
     }
     public void Quit()
@@ -28,17 +24,17 @@ public class ButtonClick : MonoBehaviour
     }
     public void Mute()
     {
-        if (soundMute == false)
+        if (!soundMute)
         {
+            MuteText.text = "Unmute";
             AudioListener.volume = 0f;
             soundMute = true;
-            MuteText.text = "Unmute";
         }
         else
         {
+            MuteText.text = "Mute";
             AudioListener.volume = 1f;
             soundMute = false;
-            MuteText.text = "Mute";
         }
     }
 }

@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class GoBackToMenu : MonoBehaviour
 {
+
     public void Back()
     {
         SceneManager.LoadScene("Main Menu");
