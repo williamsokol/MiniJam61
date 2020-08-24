@@ -1,103 +1,103 @@
 fileFormatVersion: 2
-guid: f667aa6a3ee4f68499909338030a7e8d
+guid: 9f56c58cd5fb88848aed41f5163d2d37
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7241491235832059615
-    second: Cobra Sprite Sheet_0
+      213: -3358521927045386581
+    second: the sun_image_0
   - first:
-      213: -3059449010540670991
-    second: Cobra Sprite Sheet_1
+      213: -5350400860062914219
+    second: the sun_image_1
   - first:
-      213: 7360234862221236966
-    second: Cobra Sprite Sheet_2
+      213: 7330516037828437058
+    second: the sun_image_2
   - first:
-      213: 8875149056722201993
-    second: Cobra Sprite Sheet_3
+      213: -2670039573966059705
+    second: the sun_image_3
   - first:
-      213: 8280168119923062025
-    second: Cobra Sprite Sheet_4
+      213: 9161693669747589909
+    second: the sun_image_4
   - first:
-      213: -6605533314232079838
-    second: Cobra Sprite Sheet_5
+      213: -5127160471447888148
+    second: the sun_image_5
   - first:
-      213: -3574934693371966615
-    second: Cobra Sprite Sheet_6
+      213: -8244424345977889664
+    second: the sun_image_6
   - first:
-      213: 8114708351250229489
-    second: Cobra Sprite Sheet_7
+      213: 5152939958430454413
+    second: the sun_image_7
   - first:
-      213: -4428871798610602396
-    second: Cobra Sprite Sheet_8
+      213: -1095112448031674708
+    second: the sun_image_8
   - first:
-      213: 2888012950625433993
-    second: Cobra Sprite Sheet_9
+      213: 1718197066557423923
+    second: the sun_image_9
   - first:
-      213: -1809472078534564732
-    second: Cobra Sprite Sheet_10
+      213: -5521299112010074950
+    second: the sun_image_10
   - first:
-      213: 1524397692789486013
-    second: Cobra Sprite Sheet_11
+      213: -5389039266055045938
+    second: the sun_image_11
   - first:
-      213: -1507090937565126870
-    second: Cobra Sprite Sheet_12
+      213: 1653615861555789296
+    second: the sun_image_12
   - first:
-      213: 629578302836883936
-    second: Cobra Sprite Sheet_13
+      213: -6126319834222071855
+    second: the sun_image_13
   - first:
-      213: 9055111673483966395
-    second: Cobra Sprite Sheet_14
+      213: -6159937704783200012
+    second: the sun_image_14
   - first:
-      213: 9015327294819165004
-    second: Cobra Sprite Sheet_15
+      213: -1848082828787058448
+    second: the sun_image_15
   - first:
-      213: -3419845654589780837
-    second: Cobra Sprite Sheet_16
+      213: 9058149648513114639
+    second: the sun_image_16
   - first:
-      213: -8106545723590401609
-    second: Cobra Sprite Sheet_17
+      213: -5449343510505259901
+    second: the sun_image_17
   - first:
-      213: -2937359382781451636
-    second: Cobra Sprite Sheet_18
+      213: -7167055211934208841
+    second: the sun_image_18
   - first:
-      213: 5169675648711968761
-    second: Cobra Sprite Sheet_19
+      213: -6851871177914546751
+    second: the sun_image_19
   - first:
-      213: -8483015094633388456
-    second: Cobra Sprite Sheet_20
+      213: 5094436978115232760
+    second: the sun_image_20
   - first:
-      213: 1997684269116402581
-    second: Cobra Sprite Sheet_21
+      213: 7106814268056550554
+    second: the sun_image_21
   - first:
-      213: -6985231361269325872
-    second: Cobra Sprite Sheet_22
+      213: 6502135802550113950
+    second: the sun_image_22
   - first:
-      213: -4221734642418573635
-    second: Cobra Sprite Sheet_23
+      213: 9202721650447026970
+    second: the sun_image_23
   - first:
-      213: -1638846476315402472
-    second: Cobra Sprite Sheet_24
+      213: 8856680570973037057
+    second: the sun_image_24
   - first:
-      213: 5157146637724788024
-    second: Cobra Sprite Sheet_25
+      213: 292782134656156709
+    second: the sun_image_25
   - first:
-      213: -117874924085899122
-    second: Cobra Sprite Sheet_26
+      213: -3101886506920486971
+    second: the sun_image_26
   - first:
-      213: 745212730457791166
-    second: Cobra Sprite Sheet_27
+      213: 2262463789657521916
+    second: the sun_image_27
   - first:
-      213: 1961931978423783438
-    second: Cobra Sprite Sheet_28
+      213: 2893765053639569200
+    second: the sun_image_28
   - first:
-      213: -4236664973555088571
-    second: Cobra Sprite Sheet_29
+      213: 2592194446691166124
+    second: the sun_image_29
   - first:
-      213: 5340975923970819235
-    second: Cobra Sprite Sheet_30
+      213: -8775548727122308977
+    second: the sun_image_30
   - first:
-      213: 2388881986590544176
-    second: Cobra Sprite Sheet_31
+      213: -7959522372245611925
+    second: the sun_image_31
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -127,7 +127,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -141,7 +141,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 80
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -195,13 +195,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_0
+      name: the sun_image_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 32
-        height: 32
+        x: 10
+        y: 257
+        width: 45
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +209,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 129202c861e018b90800000000000000
-      internalID: -7241491235832059615
+      spriteID: bae69100a122461d0800000000000000
+      internalID: -3358521927045386581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_1
+      name: the sun_image_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
+        x: 85
+        y: 257
+        width: 45
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,20 +230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ff8d46a557aa85d0800000000000000
-      internalID: -3059449010540670991
+      spriteID: 5596102f3ce8fb5b0800000000000000
+      internalID: -5350400860062914219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_2
+      name: the sun_image_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 32
+        x: 159
+        y: 257
+        width: 45
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,20 +251,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ea942a6c9ec42660800000000000000
-      internalID: 7360234862221236966
+      spriteID: 24461176f793bb560800000000000000
+      internalID: 7330516037828437058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_3
+      name: the sun_image_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128
-        width: 32
-        height: 32
+        x: 233
+        y: 257
+        width: 46
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,20 +272,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98de1966b0dda2b70800000000000000
-      internalID: 8875149056722201993
+      spriteID: 7478489672d12fad0800000000000000
+      internalID: -2670039573966059705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_4
+      name: the sun_image_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 32
-        height: 32
+        x: 308
+        y: 257
+        width: 45
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +293,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 905378ce80119e270800000000000000
-      internalID: 8280168119923062025
+      spriteID: 51300461adfd42f70800000000000000
+      internalID: 9161693669747589909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_5
+      name: the sun_image_5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 32
+        x: 383
+        y: 257
+        width: 44
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,20 +314,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22a2035c27e6454a0800000000000000
-      internalID: -6605533314232079838
+      spriteID: cee9ce057baa8d8b0800000000000000
+      internalID: -5127160471447888148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_6
+      name: the sun_image_6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 32
-        height: 32
+        x: 457
+        y: 257
+        width: 45
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,20 +335,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96b085256d7436ec0800000000000000
-      internalID: -3574934693371966615
+      spriteID: 08cd768fcbbe59d80800000000000000
+      internalID: -8244424345977889664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_7
+      name: the sun_image_7
       rect:
         serializedVersion: 2
-        x: 224
-        y: 128
-        width: 32
-        height: 32
+        x: 531
+        y: 257
+        width: 45
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,20 +356,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f86a2c704c3d9070800000000000000
-      internalID: 8114708351250229489
+      spriteID: d82d92b379be28740800000000000000
+      internalID: 5152939958430454413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_8
+      name: the sun_image_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
+        x: 10
+        y: 183
+        width: 46
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,20 +377,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 466d118709c7982c0800000000000000
-      internalID: -4428871798610602396
+      spriteID: caea6f9d7016dc0f0800000000000000
+      internalID: -1095112448031674708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_9
+      name: the sun_image_9
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
+        x: 84
+        y: 183
+        width: 47
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,20 +398,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 989b1cc2a78441820800000000000000
-      internalID: 2888012950625433993
+      spriteID: 331064ee02348d710800000000000000
+      internalID: 1718197066557423923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_10
+      name: the sun_image_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
+        x: 159
+        y: 184
+        width: 46
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,20 +419,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 484a5f74bb673e6e0800000000000000
-      internalID: -1809472078534564732
+      spriteID: ab4b5f1f5b76063b0800000000000000
+      internalID: -5521299112010074950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_11
+      name: the sun_image_11
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
+        x: 233
+        y: 184
+        width: 47
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,20 +440,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db1742fff9fb72510800000000000000
-      internalID: 1524397692789486013
+      spriteID: ecc382207594635b0800000000000000
+      internalID: -5389039266055045938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_12
+      name: the sun_image_12
       rect:
         serializedVersion: 2
-        x: 128
-        y: 96
-        width: 32
-        height: 32
+        x: 306
+        y: 185
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,20 +461,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2f5836f6ccb51be0800000000000000
-      internalID: -1507090937565126870
+      spriteID: 0fdfbf66dd2d2f610800000000000000
+      internalID: 1653615861555789296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_13
+      name: the sun_image_13
       rect:
         serializedVersion: 2
-        x: 160
-        y: 96
-        width: 32
-        height: 32
+        x: 382
+        y: 185
+        width: 46
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -482,20 +482,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e1c2ea7126bcb800800000000000000
-      internalID: 629578302836883936
+      spriteID: 1df63c4c190fafaa0800000000000000
+      internalID: -6126319834222071855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_14
+      name: the sun_image_14
       rect:
         serializedVersion: 2
-        x: 192
-        y: 96
-        width: 32
-        height: 32
+        x: 456
+        y: 185
+        width: 47
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -503,20 +503,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb7318b47183aad70800000000000000
-      internalID: 9055111673483966395
+      spriteID: 4f0ccd35b41838aa0800000000000000
+      internalID: -6159937704783200012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_15
+      name: the sun_image_15
       rect:
         serializedVersion: 2
-        x: 224
-        y: 96
-        width: 32
-        height: 32
+        x: 530
+        y: 185
+        width: 47
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,20 +524,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c43649dc860ec1d70800000000000000
-      internalID: 9015327294819165004
+      spriteID: 0f8f5a2757a4a56e0800000000000000
+      internalID: -1848082828787058448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_16
+      name: the sun_image_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
+        x: 10
+        y: 111
+        width: 47
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,20 +545,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c438b0f744a80d0800000000000000
-      internalID: -3419845654589780837
+      spriteID: f0224f9fc1305bd70800000000000000
+      internalID: 9058149648513114639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_17
+      name: the sun_image_17
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 84
+        y: 111
+        width: 47
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,20 +566,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b1aeed5d93cf7f80800000000000000
-      internalID: -8106545723590401609
+      spriteID: 38cf045f2fa0064b0800000000000000
+      internalID: -5449343510505259901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_18
+      name: the sun_image_18
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
+        x: 159
+        y: 110
+        width: 46
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,20 +587,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c82a6a344376c37d0800000000000000
-      internalID: -2937359382781451636
+      spriteID: 7bcac07e141898c90800000000000000
+      internalID: -7167055211934208841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_19
+      name: the sun_image_19
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
+        x: 233
+        y: 110
+        width: 47
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,20 +608,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f7c675cc906eb740800000000000000
-      internalID: 5169675648711968761
+      spriteID: 1c58aa9677349e0a0800000000000000
+      internalID: -6851871177914546751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_20
+      name: the sun_image_20
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 32
-        height: 32
+        x: 307
+        y: 110
+        width: 48
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -629,20 +629,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 856a91467b6464a80800000000000000
-      internalID: -8483015094633388456
+      spriteID: 8f34c2ba07313b640800000000000000
+      internalID: 5094436978115232760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_21
+      name: the sun_image_21
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
-        width: 32
-        height: 32
+        x: 381
+        y: 109
+        width: 48
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -650,20 +650,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59ba112324339bb10800000000000000
-      internalID: 1997684269116402581
+      spriteID: a9c303c5ce970a260800000000000000
+      internalID: 7106814268056550554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_22
+      name: the sun_image_22
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
+        x: 456
+        y: 109
+        width: 47
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,20 +671,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0df9f9516197f0f90800000000000000
-      internalID: -6985231361269325872
+      spriteID: e965958001a3c3a50800000000000000
+      internalID: 6502135802550113950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_23
+      name: the sun_image_23
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 530
+        y: 109
+        width: 48
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,20 +692,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbe1eaed5b26965c0800000000000000
-      internalID: -4221734642418573635
+      spriteID: a1b01bd3592a6bf70800000000000000
+      internalID: 9202721650447026970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_24
+      name: the sun_image_24
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
+        x: 10
+        y: 35
+        width: 47
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -713,20 +713,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81fd1d110d5a149e0800000000000000
-      internalID: -1638846476315402472
+      spriteID: 102a3f9fd0049ea70800000000000000
+      internalID: 8856680570973037057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_25
+      name: the sun_image_25
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
+        x: 85
+        y: 34
+        width: 46
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -734,20 +734,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 835af241b8dd19740800000000000000
-      internalID: 5157146637724788024
+      spriteID: 524c2ccdccb201400800000000000000
+      internalID: 292782134656156709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_26
+      name: the sun_image_26
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 159
+        y: 34
+        width: 47
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -755,20 +755,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e801fed81693d5ef0800000000000000
-      internalID: -117874924085899122
+      spriteID: 5c75d6d08a2e3f4d0800000000000000
+      internalID: -3101886506920486971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_27
+      name: the sun_image_27
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
+        x: 233
+        y: 33
+        width: 46
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -776,20 +776,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eba1901b707875a00800000000000000
-      internalID: 745212730457791166
+      spriteID: cfe78b364d2e56f10800000000000000
+      internalID: 2262463789657521916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_28
+      name: the sun_image_28
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
+        x: 307
+        y: 34
+        width: 47
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -797,20 +797,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e00dd675dbe2a3b10800000000000000
-      internalID: 1961931978423783438
+      spriteID: 03f20a50cf7b82820800000000000000
+      internalID: 2893765053639569200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_29
+      name: the sun_image_29
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
+        x: 382
+        y: 34
+        width: 46
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -818,20 +818,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 543c8e247a75435c0800000000000000
-      internalID: -4236664973555088571
+      spriteID: ca764cf7d1359f320800000000000000
+      internalID: 2592194446691166124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_30
+      name: the sun_image_30
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
+        x: 457
+        y: 34
+        width: 45
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -839,20 +839,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a4c13e1e45fe1a40800000000000000
-      internalID: 5340975923970819235
+      spriteID: f805eb27decf63680800000000000000
+      internalID: -8775548727122308977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cobra Sprite Sheet_31
+      name: the sun_image_31
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
+        x: 530
+        y: 34
+        width: 46
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -860,8 +860,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0311f0d8283072120800000000000000
-      internalID: 2388881986590544176
+      spriteID: b6a9684e2981a8190800000000000000
+      internalID: -7959522372245611925
       vertices: []
       indices: 
       edges: []
@@ -869,7 +869,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 169d645877f67ef479372c9bc252246d
     internalID: 0
     vertices: []
     indices: 

@@ -7,6 +7,7 @@ public class CamFollow : MonoBehaviour
     private Vector2 velocity;
     public  GameObject  player;
     private Vector3        offset;
+    public float followSpeed;
 
     
     public void getCamera()
@@ -19,7 +20,7 @@ public class CamFollow : MonoBehaviour
     void FixedUpdate()
     {
         if(player != null)
-            transform.position = Vector2.SmoothDamp(transform.position,player.transform.position,ref velocity,.4f);
+            transform.position = Vector2.SmoothDamp(transform.position,player.transform.position,ref velocity,followSpeed);
     }
    
 }
