@@ -7,6 +7,7 @@ public class Attack : MonoBehaviour
     Vector2 oldDirection =  new Vector2(0,0);
     public GameObject projectile, shootSpot;
     public float timer = 0, attackSpeed;
+    public AudioSource flameSound;
    
     // Start is called before the first frame update
     void Start()
@@ -41,6 +42,7 @@ public class Attack : MonoBehaviour
         if(Input.GetButton("Fire1") && timer >= attackSpeed){
             //dmgBox.SetActive(true);
             Instantiate(projectile, shootSpot.transform.position, transform.rotation);
+            flameSound.Play();
             timer = 0;
         }else{
             //dmgBox.SetActive(false);

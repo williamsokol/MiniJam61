@@ -20,6 +20,7 @@ public class PlayerHp : MonoBehaviour
     }
     public void UpdateHp(){
         // modify hp indicator
+        HpUI.instance.LoseHp((int)_hp);
         if(_hp <= 0){
             //dead stuff
             print("game over");

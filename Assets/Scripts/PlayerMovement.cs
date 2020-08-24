@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
         //See if the jumping
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
-            print("test");
+            
             rb.AddForce(transform.up * jumpForce);
             
         }

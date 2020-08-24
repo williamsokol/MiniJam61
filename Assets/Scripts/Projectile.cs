@@ -22,13 +22,13 @@ public class Projectile : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other){
         
         if(other.tag == "Enemy"){
-            print("good");
+            //print("good");
             FadeOut();
         }
     }
 
     public void FadeOut(){
-        print("fadeout");
+        //print("fadeout");
         animator.SetTrigger("Hit");
     }
     void Die(){

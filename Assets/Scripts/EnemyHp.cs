@@ -5,6 +5,7 @@ using UnityEngine;
 public class EnemyHp : MonoBehaviour
 {
     public int enemyHp;
+    public AudioSource pain;
     // Start is called before the first frame update
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -18,6 +19,7 @@ public class EnemyHp : MonoBehaviour
     public void TakeDmg()
     {
         enemyHp--;
+        pain.Play();
         // do some little red flicker of dmg also
         print("enemyhurt");
         if(enemyHp <= 0){
